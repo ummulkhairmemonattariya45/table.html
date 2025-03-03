@@ -1,0 +1,13 @@
+table,th,td{
+    border: 1px solid rgb(87, 9, 9);
+  text-align: center;  
+}
+th{
+    background-color: rgb(237, 252, 247);
+}
+td{
+    background-color: rgb(255, 227, 232);
+}
+div{
+    overflow-x: auto;
+}
